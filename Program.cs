@@ -1,7 +1,7 @@
 ﻿Personaje personaje = new()
 {
     Nombre = "Mochi el hamster",
-    Vida = -100,
+    Vida = 100,
     Ataque = 25,
     Defensa = 15,
     Nivel = 1
